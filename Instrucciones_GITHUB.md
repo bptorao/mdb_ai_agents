@@ -8,8 +8,9 @@ Este documento explica cómo solicitar acceso al repositorio, clonarlo en tu equ
 
 Para obtener acceso al repositorio privado **`mdb_ai_agents`**, sigue estos pasos:  
 
-1. Envíame un correo con tu dirección de GitHub a: **[TU CORREO]**.  
-2. Te enviaré una invitación para acceder al repositorio en GitHub.  
+1. Envíame un correo con tu dirección de GitHub a: **bueka.torao@gmail.com**.  
+2. Te enviaré una invitación para acceder al repositorio en GitHub.
+[mdb_ai_agents](https://github.com/bptorao/mdb_ai_agents)
 3. Una vez recibida la invitación, acéptala desde [GitHub → Invites](https://github.com/settings/organizations).  
 
 ---
@@ -19,10 +20,8 @@ Para obtener acceso al repositorio privado **`mdb_ai_agents`**, sigue estos paso
 Después de aceptar la invitación, puedes clonar el repositorio en tu máquina local ejecutando el siguiente comando en tu terminal:  
 
 ```bash
-git clone git@github.com:[TU_USUARIO]/mdb_ai_agents.git
+git clone git@github.com:bptorao/mdb_ai_agents.git
 ```
-
-📌 **Nota:** Asegúrate de reemplazar `[TU_USUARIO]` con tu nombre de usuario en GitHub si estás usando SSH.  
 
 Si prefieres clonar usando HTTPS, puedes hacerlo con:  
 
@@ -119,7 +118,7 @@ git checkout main
 
 ```bash
 git add solutions/tu_nombre_equipo
-git commit -m "Añadir solución del equipo tu_nombre_equipo"
+git commit -m "[nombre equipo] descripcion del cambio"
 git push origin main
 ```
 

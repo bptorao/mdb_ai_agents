@@ -15,8 +15,7 @@ api_key = os.getenv('OPENAI_API_KEY')
 openai = OpenAI()
 
 # Haz que Llama 3.2 responda
-#OLLAMA_SERVER = "http://localhost:11434"
-OLLAMA_SERVER = "http://host.docker.internal:11434"
+OLLAMA_SERVER = "http://localhost:11434"
 OLLAMA_API = f"{OLLAMA_SERVER}/api/chat"
 HEADERS = {"Content-Type": "application/json"}
 MODEL_LLAMA = 'llama3.2'
