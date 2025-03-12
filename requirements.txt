@@ -5,7 +5,7 @@ numpy
 pandas
 tqdm
 openai
+gradio
 streamlit
-langchain
 beautifulsoup4
 ollama

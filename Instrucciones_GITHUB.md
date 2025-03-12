@@ -26,7 +26,7 @@ git clone git@github.com:bptorao/mdb_ai_agents.git
 Si prefieres clonar usando HTTPS, puedes hacerlo con:  
 
 ```bash
-git clone https://github.com/[TU_USUARIO]/mdb_ai_agents.git
+git clone https://github.com/btorao/mdb_ai_agents.git
 ```
 
 Luego, entra en la carpeta del repositorio:  
