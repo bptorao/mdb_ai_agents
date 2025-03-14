@@ -95,12 +95,8 @@ Ejemplos de consultas recomendadas:
 
 * La aplicación web de Gradio proporciona una interfaz de usuario simple y fácil de usar. Puedes escribir preguntas en
   el
-  cuadro de texto y ver las respuestas generadas por el agente.
-
-![Chat](/snapshots/chat-sample.png)
+  cuadro de texto y ver las respuestas generadas por el agente. (Ver carpeta snapshots)
 
 ### Base de datos
 
-* La base de datos sigue este esquema: 
-
-![ERD](/snapshots/db-erd.png)
+* La base de datos sigue este esquema (Ver carpeta snapshots)
