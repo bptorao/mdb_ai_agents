@@ -97,8 +97,10 @@ Ejemplos de consultas recomendadas:
   el
   cuadro de texto y ver las respuestas generadas por el agente.
 
+![Chat](/snapshots/chat-sample.png)
+
 ### Base de datos
 
-* La base de datos sigue este esquema:
+* La base de datos sigue este esquema: 
 
-
+![ERD](/snapshots/db-erd.png)
