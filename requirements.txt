@@ -7,6 +7,5 @@ tqdm
 openai
 gradio
 streamlit
-
 beautifulsoup4
 ollama
