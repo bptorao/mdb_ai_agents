@@ -172,3 +172,13 @@ cython_debug/
 
 # MacBook files
 .DS_Store
+
+
+# Python virtual environments
+venv/
+ENV/
+.venv/
+env/
+
+# Env files
+.env
